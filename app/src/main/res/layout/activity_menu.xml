@@ -8,5 +8,10 @@
        android:textSize="100dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="wrap_content"
+        android:id="@+id/view"
+        android:layout_height="wrap_content"
+        android:text="view"/>
 
 </LinearLayout>
